@@ -191,6 +191,7 @@
 [submodule "janus/vim/tools/vroom"]
 	path = janus/vim/tools/vroom
 	url = https://github.com/skalnik/vim-vroom.git
+<<<<<<< HEAD
 [submodule "janus/vim/tools/eunuch"]
 	path = janus/vim/tools/eunuch
 	url = https://github.com/tpope/vim-eunuch.git
@@ -206,3 +207,14 @@
 [submodule "janus/vim/tools/multiple-cursors"]
 	path = janus/vim/tools/multiple-cursors
 	url = https://github.com/terryma/vim-multiple-cursors.git
+=======
+[submodule "bundle/delmitmate"]
+	path = bundle/delmitmate
+	url = git://github.com/Raimondi/delimitMate.git
+[submodule "bundle/closetag"]
+	path = bundle/closetag
+	url = git://github.com/docunext/closetag.vim.git
+[submodule "bundle/mustache"]
+	path = bundle/mustache
+	url = git://github.com/juvenn/mustache.vim.git
+>>>>>>> 347ed6d4a5356fe8a5eebca476c2d9f347c930e4

@@ -44,6 +44,7 @@ nnoremap <leader>d "_d
 :set colorcolumn=100
 :set mouse=nicr
 set clipboard=unnamed
+:set cursorline 
 set nocompatible               " be iMproved
  filetype off                   " required!
 
